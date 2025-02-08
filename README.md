@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - [USFL (2023) Data Repository](https://github.com/armstjc/usfl-2022-data-repository) (archive)
 - [XFL (2023) Data Repository](https://github.com/armstjc/xfl-2023-data-repository) (archive)
 - [`cfbd_json_py`](https://github.com/armstjc/cfbd-json-py): A community python wrapper for the [CFBD API](https://collegefootballdata.com/)
-## Auto Racing-relaged:
+## Auto Racing-related:
 - [Racing Data Repository](https://github.com/armstjc/racing-data-repository)
 
 ## Previous NFL Big Data Bowl Submisssions:
